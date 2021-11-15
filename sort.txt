@@ -1,3 +1,5 @@
 hi hello welcome to the world of git and github
 updating this file
+<<<<<<< HEAD
 by using this file we learned some git basic operations like rebase,merge
+=======
