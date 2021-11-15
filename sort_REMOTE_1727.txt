@@ -1,8 +1,4 @@
 hi hello welcome to the world of git and github
 updating this file
 by using this file we learned some git basic operations
-<<<<<<< HEAD
-id:20A31B0433
-=======
 id:20a31b0456
->>>>>>> rrr
