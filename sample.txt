@@ -1,0 +1,2 @@
+hi welcome to git and github learning
+now we are going to practice revert and reset command in git 
